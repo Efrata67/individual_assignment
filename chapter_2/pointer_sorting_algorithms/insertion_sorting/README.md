@@ -29,7 +29,7 @@ bash
 
 **'Output'**
 The program will output:
-Original array: 9 4 6 2 7 1 
+Original array: 9 4 6 2 7 1 ;
 Sorted array: 1 2 4 6 7 9 
 (Output may vary depending on the input array.)
 
