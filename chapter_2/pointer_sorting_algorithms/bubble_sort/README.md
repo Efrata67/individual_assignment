@@ -29,6 +29,7 @@ bash
 ./main
 
 **Output**
+
 The program will output:
 Original array: 5 1 4 2 8; 
 
