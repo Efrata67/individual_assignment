@@ -35,11 +35,11 @@ Sorted array: 1 2 4 6 7 9
 
 ## Complexity Analysis
 Time Complexity
-**Case	  Complexity    	Description**
+
 Best	   O(n)	          Array is already sorted. Only one comparison per element.
 Average	   O(n²)	      Elements are in random order; each insert may require multiple shifts.
 Worst	   O(n²)	      Array is sorted in reverse order; all previous elements must be shifted.
 
 ## Space Complexity
-**Measure	    Complexity  	Description**
+
 Auxiliary	      O(1)	    Sorting is performed in-place using pointers.
