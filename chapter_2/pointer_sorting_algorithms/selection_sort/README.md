@@ -31,7 +31,7 @@ bash
 **Output**
 The program will output:
 
-Original array: 29 10 14 37 13 
+Original array: 29 10 14 37 13;  
 Sorted array: 10 13 14 29 37 
 (Output may vary depending on the input array.)
 
