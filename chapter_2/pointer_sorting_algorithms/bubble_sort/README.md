@@ -30,7 +30,8 @@ bash
 
 **Output**
 The program will output:
-Original array: 5 1 4 2 8;
+Original array: 5 1 4 2 8; 
+
 Sorted array: 1 2 4 5 8 
 (Output may vary depending on the input array.)
 
