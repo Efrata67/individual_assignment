@@ -1,4 +1,4 @@
-# Pointer-Based Bubble Sort in C++
+# Pointer-Based Bubble Sort 
 
 ## Algorithm
 
