@@ -20,11 +20,11 @@ Clone the repository to your local machine.
 Open the terminal and navigate to the repository directory.
 
 **'Compile the C++ code using:'**
-bash
+
 g++ main.cpp -o main
 
 **'Run the compiled program:'**
-bash
+
 ./main
 
 **'Output'**
